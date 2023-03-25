@@ -78,7 +78,7 @@ Yerel Reklamlar: Dropshipping işletmeniz için yerel reklamlar yayınlayarak, b
 
 Sosyal Medya Yayınları: Ürünlerinizin tanıtımını yapmak için sosyal medya hesaplarınızda yayınlar yapabilirsiniz. Bu, organik olarak büyüyen bir takipçi kitlesi oluşturmanın etkili bir yoludur.
 ```
-# E-ticaret mağazası oluşturmak için kullanabileceğiniz en bilindik 5 platform şunlardır:
+# E-Ticaret Mağazası Oluşturmak İçin Kullanabileceğiniz En Bilindik 5 Platform Şunlardır:
 ```
 Shopify: Bu platform, birçok e-ticaret işletmesi için en popüler seçenektir. Mağaza oluşturma, ödeme entegrasyonları, ürün yönetimi ve hatta pazarlama araçları gibi birçok özellik sunar.
 
