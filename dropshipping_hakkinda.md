@@ -1,4 +1,4 @@
-# İşte dropshipping işine başlamak için gereken ürün seçimleri, reklam tercihleri ve diğer etkenler hakkında bir rehber:
+# İşte Dropshipping İşine Başlamak İçin Gereken Ürün Seçimleri, Reklam Tercihleri ve Diğer Etkenler Hakkında Bir Rehber:
 
 ```
 Ürün Seçimi:
@@ -18,3 +18,42 @@ Dropshipping işinde müşteri hizmetleri son derece önemlidir. Müşteri sorul
 
 Sonuç olarak, dropshipping işi yapmak için, rekabetçi ürün seçimi, güvenilir bir tedarikçi seçimi, doğru reklam tercihleri, profesyonel bir mağaza tasarımı ve iyi müşteri hizmetleri sunmak önemlidir.
 ```
+
+# Basit Bir Ürün Seçimi Örneği
+```
+Bir örnek vermek gerekirse, son zamanlarda popüler olan bir ürün örneği olarak "akıllı saatler"i verebiliriz. Bu ürün, fitness takibi, çağrı cevaplama, mesajlaşma, müzik çalma gibi özellikleri ile kullanıcıların ilgisini çekiyor. Ayrıca, farklı fiyat aralıklarında birçok marka ve model mevcut. Bu ürün, dropshipping işi yapmak isteyenler için popüler ve talep gören bir ürün olabilir. Tabii ki, her zaman ürünün popüler olması yeterli değil, ürünün maliyeti, tedarik edilebilirliği ve rekabetçi fiyatlandırması gibi faktörler de göz önünde bulundurulmalıdır.
+```
+
+# Örnek Ürünlerin Listesi
+```
+Telefon kılıfları ve ekran koruyucuları
+Kişisel bakım ürünleri, örneğin saç kesme makineleri, tıraş makineleri ve epilasyon aletleri
+T-shirtler ve diğer giyim ürünleri
+Saatler ve takılar
+Makyaj malzemeleri ve aksesuarları
+Oyun konsolu ve aksesuarları
+Ev dekorasyonu ürünleri, örneğin tablolar, minderler ve perdeler
+Spor ekipmanları, örneğin yoga matları, dambıl setleri ve jimnastik aletleri
+Oyuncaklar ve hobi malzemeleri
+Elektronik aksesuarları, örneğin kablosuz kulaklıklar, hoparlörler ve şarj cihazları
+```
+
+# En Bilindik Tedarikçiler
+```
+AliExpress: Çin merkezli bir e-ticaret platformudur ve birçok dropshipping işletmesi için popüler bir tedarikçidir. Geniş bir ürün yelpazesi sunar ve düşük fiyatlarla satış yapmanızı sağlar.
+
+Amazon: Dünya genelinde bilinen ve güvenilir bir platformdur. Amazon üzerindeki satıcılar, dropshipping işletmelerine ürün tedarik edebilirler.
+
+Oberlo: Shopify'in bir parçası olan Oberlo, birçok dropshipping işletmesi tarafından tercih edilir. Ürünlerini AliExpress ve diğer tedarikçilerden temin eder ve Shopify mağazanızda satış yapmanızı sağlar.
+
+SaleHoo: SaleHoo, dünyanın dört bir yanındaki tedarikçileri bir araya getirir ve üyelerine bu tedarikçilerden ürün tedarik etme imkanı sunar. SaleHoo ayrıca üyelerine pazarlama araçları, ürün araştırması ve müşteri desteği gibi diğer hizmetler de sunar.
+
+Wholesale2B: Dünya genelindeki tedarikçilerin bir araya geldiği bir platformdur. Wholesale2B, ürünlerini Amazon, eBay, Shopify ve diğer pazar yerlerinde satış yapmak isteyen dropshipping işletmelerine sağlar.
+
+Doba: Doba, dropshipping işletmelerine ürün tedarik eden bir diğer platformdur. Doba, birçok kategoride ürünler sunar ve müşteri desteği, envanter yönetimi ve ürün araştırması gibi diğer hizmetler de sunar.
+
+Printful: Özellikle giyim ve aksesuar sektöründe popüler olan Printful, dropshipping işletmelerine özelleştirilmiş ürünler sağlar. Ürünleri özelleştirebilir, tasarım ekleyebilir ve bunları kendi mağazanızda satışa sunabilirsiniz.
+
+Bu tedarikçiler, dropshipping işine yeni başlayanlar için popüler ve bilindik seçeneklerdir. Ancak, her zaman ürünleriniz için araştırma yapmanız ve en iyi tedarikçiyi seçmeniz önemlidir.
+```
+
