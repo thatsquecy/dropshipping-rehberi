@@ -1,5 +1,6 @@
 # İşte dropshipping işine başlamak için gereken ürün seçimleri, reklam tercihleri ve diğer etkenler hakkında bir rehber:
 
+```
 Ürün Seçimi:
 Dropshipping işine başlamadan önce, satmayı planladığınız ürünleri seçmelisiniz. Başarılı bir dropshipping işi için, rekabetçi fiyatlandırma, popülerlik ve talep gören ürünler seçmeniz önemlidir. İyi bir ürün seçimi yapmak için, trendleri takip edebilir, ürün değerlendirme siteleri kullanabilir ve sektörünüzle ilgili araştırmalar yapabilirsiniz.
 
@@ -16,3 +17,4 @@ Müşteri Hizmetleri:
 Dropshipping işinde müşteri hizmetleri son derece önemlidir. Müşteri sorularınızı zamanında cevaplamalı, iade politikalarınızı açık bir şekilde belirtmeli ve müşterilerinize iyi bir deneyim sunmalısınız. İyi bir müşteri hizmeti, müşterilerinizin tekrar alışveriş yapmasına ve markanızı tavsiye etmesine yardımcı olabilir.
 
 Sonuç olarak, dropshipping işi yapmak için, rekabetçi ürün seçimi, güvenilir bir tedarikçi seçimi, doğru reklam tercihleri, profesyonel bir mağaza tasarımı ve iyi müşteri hizmetleri sunmak önemlidir.
+```
